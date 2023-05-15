@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .main {
   position: relative;
@@ -19,7 +19,6 @@
   border-radius: 2rem;
   color: #fff;
   padding: 20px;
-  width: 360px;
 }
 
 #notButton {
