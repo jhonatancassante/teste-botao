@@ -16,7 +16,7 @@
 .btn {
   position: relative;
   margin: 1rem;
-  border-radius: 2rem;
+  border-radius: 20px;
   color: #fff;
   padding: 20px;
 }
