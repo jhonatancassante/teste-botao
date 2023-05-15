@@ -16,10 +16,10 @@
 .btn {
   position: relative;
   margin: 1rem;
-  border-radius: 0.7rem;
+  border-radius: 2rem;
   color: #fff;
-  padding: 10px;
-  width: 22.5rem;
+  padding: 20px;
+  width: 360px;
 }
 
 #notButton {
